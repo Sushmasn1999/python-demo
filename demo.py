@@ -1,1 +1,1 @@
-print "This is demo Python"
+print ("This is demo Python")
